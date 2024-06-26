@@ -6,4 +6,4 @@ This folder contains all of the notebooks used in the process. Notebooks with mo
 
 **csv files**
 
-This folder included all of the results gathered from the notebooks with models in their name. In order to get similar result from the experiment those csv have to be used as input. 
+This folder included all of the results gathered from the notebooks with models in their name. In order to get similar result from the experiment those csv have to be used as input in the models. 
